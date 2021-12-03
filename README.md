@@ -2,14 +2,15 @@
 
 - 📚 Estudante de Engenharia de Computação;
 - 🌱 Estou aprendendo sobre desenvolvimento web e UX;
-- 🤔 Aceito ajuda em qualquer aspecto;
+- 🤔 Interessada em: desenvolvimento web front-end e UX design;
+- 🤗 Aceito ajuda em qualquer linguagem;
 - 📫 Contato: beatriz.neaime@outlook.com;
 - ⚡ Fun fact: no meu tempo livre gosto de fazer crochê 🧶
 
 <div align="center">
   <a href="https://github.com/BeatrizNeaime">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizNeaime&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizNeaime&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizNeaime&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
