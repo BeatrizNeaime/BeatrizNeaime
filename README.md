@@ -1,7 +1,6 @@
 ## Oii! Sou Beatriz Neaime.
 
 - 📚 Estudante de Engenharia de Computação;
-- 🌱 Estou aprendendo sobre desenvolvimento web e UX;
 - 🤔 Interessada em: desenvolvimento web front-end e UX design;
 - 🤗 Aceito ajuda em qualquer linguagem;
 - 📫 Contato: beatriz.neaime@outlook.com;
