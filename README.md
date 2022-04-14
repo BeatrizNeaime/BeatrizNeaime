@@ -1,6 +1,6 @@
 ## Oii! Sou Beatriz Neaime.
 
-- 📚 Estudante de Engenharia de Computação e desenvolvedora web fronte-nd;
+- 📚 Estudante de Engenharia de Computação e desenvolvedora web front-end;
 - 🤗 Aceito ajuda em qualquer linguagem;
 - 📫 Contato: beatriz.neaime@outlook.com;
 - ⚡ Fun fact: no meu tempo livre gosto de fazer crochê 🧶
