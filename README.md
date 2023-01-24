@@ -2,7 +2,7 @@
 
 - 📚 Computer Engineering student;
 - ❤️ I love front-end development;
-- 🤗 Your help are welcome anytime;
+- 🤗 Your help will be welcome anytime;
 - 📫 You can contact me at: beatrizneaime@outlook.com;
 
 ### :fire: Contributions
