@@ -4,13 +4,6 @@
 - ❤️ I love front-end development;
 - 🤗 Your help are welcome anytime;
 - 📫 You can contact me at: beatrizneaime@outlook.com;
-  
-<div id="badges" align="center" >
-  <a href="https://www.linkedin.com/in/beatriz-neaime-1564b51b1/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=BeatrizNeaime&style=flat-square&color=blueviolet" alt=""/>
-</div>
 
 ### :fire: Contributions
 
@@ -27,3 +20,11 @@
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div>
+
+##
+<div id="badges" align="center" >
+  <a href="https://www.linkedin.com/in/beatriz-neaime-1564b51b1/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=BeatrizNeaime&style=flat-square&color=blueviolet" alt=""/>
+</div>
