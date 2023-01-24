@@ -23,10 +23,10 @@
 
 ##
 <div id="badges" align="center" >
-  <a href="https://www.linkedin.com/in/beatriz-neaime-1564b51b1/">
+  <a href="https://www.linkedin.com/in/beatriz-neaime-1564b51b1/" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.buymeacoffee.com/beatrizneaime">
+  <a href="https://www.buymeacoffee.com/beatrizneaime" target="_blank">
     <img src="https://helloimjessa.files.wordpress.com/2021/06/bmc-button.png" height="30px" alt="Buy me a coffee"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=BeatrizNeaime&style=flat-square&color=blueviolet" alt=""/>
