@@ -1,7 +1,7 @@
 ## Hey there! My name is Beatriz Neaime.
 
 - 📚 Computer Engineering student;
-- ❤️ I love front-end development;
+- ❤️ Passionate about front-end development;
 - 🤗 Your help will be welcome anytime;
 - 📫 You can contact me at: beatrizneaime@outlook.com;
 
