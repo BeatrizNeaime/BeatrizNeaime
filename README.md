@@ -1,8 +1,9 @@
 ## Hey there! My name is Beatriz Neaime.
 
-- 📚 Computer Engineering student;
+- 📚 Computer Engineer;
 - ❤️ Passionate about front-end development;
 - 🤗 Your help will be welcome anytime;
+- 👩🏽‍💻 Fullstack web developer at Santo Cartão;
 - 📫 You can contact me at: beatrizneaime@outlook.com;
 
 ### :fire: Contributions
@@ -23,6 +24,8 @@
     <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
     <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
     <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-plain.svg">
+    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
   </div>
 
 ##
