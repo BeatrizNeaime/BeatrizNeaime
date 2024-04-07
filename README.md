@@ -3,7 +3,7 @@
 - 📚 Computer Engineer;
 - ❤️ Passionate about front-end development;
 - 🤗 Your help will be welcome anytime;
-- 👩🏽‍💻 Fullstack web developer at Santo Cartão;
+- 👩🏽‍💻 Fullstack web developer at IAtrix;
 - 📫 You can contact me at: beatrizneaime@outlook.com;
 
 ### :fire: Contributions
