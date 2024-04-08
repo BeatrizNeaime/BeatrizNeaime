@@ -14,7 +14,7 @@
 
 - 🚀 Currently working at IAtrix
 
-- 🌐 More at: [beatrizneaime.com](www.beatrizneaime.com)
+- 🌐 More at: [beatrizneaime.com](https://www.beatrizneaime.com)
 
 <br>
 
@@ -38,5 +38,6 @@
   Contact Me
 </h3>
 
- ![https://www.linkedin.com/in/beatriz-neaime-1564b51b1/](https://img.shields.io/badge/BeatrizNeaime-05122A?logo=linkedin)&nbsp;
-
+<a href="https://www.linkedin.com/in/beatriz-neaime-1564b51b1/" target="_blank">
+  <img src="https://img.shields.io/badge/BeatrizNeaime-05122A?logo=linkedin"/>
+</a>
