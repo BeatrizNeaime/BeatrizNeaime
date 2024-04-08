@@ -1,40 +1,42 @@
-## Hey there! My name is Beatriz Neaime.
+<img align="right" height="590em" style="border-radius: 50% !important;" src="https://raw.githubusercontent.com/gist/BeatrizNeaime/8eca0e11a9f9903311021b63e0c2583e/raw/5181d608500625c6a9066623970d2342e8b2e354/githubcard.svg"/>
 
-- 📚 Computer Engineer;
-- ❤️ Passionate about front-end development;
-- 🤗 Your help will be welcome anytime;
-- 👩🏽‍💻 Fullstack web developer at IAtrix;
-- 📫 You can contact me at: beatrizneaime@outlook.com;
+<h1 align="left">
+  Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/>, I'm Beatriz
+</h1>
 
-### :fire: Contributions
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=BeatrizNeaime&color=05122A" alt"Profile Views" /> 
+</p>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BeatrizNeaime&theme=tokyonight&background=000000)](https://git.io/streak-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizNeaime&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
-  ### 👩‍💻 Technologies
+- 🎓 Computer Engineer
 
-  <div align="center">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">  
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
-    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
-    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-plain.svg">
-    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
-  </div>
+- 💻 FullStack Web Developer
 
-##
-<div id="badges" align="center" >
-  <a href="https://www.linkedin.com/in/beatriz-neaime-1564b51b1/" target="_blank" >
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.buymeacoffee.com/beatrizneaime" target="_blank">
-    <img src="https://helloimjessa.files.wordpress.com/2021/06/bmc-button.png" height="30px" alt="Buy me a coffee"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=BeatrizNeaime&style=flat-square&color=blueviolet" alt=""/>
+- 🚀 Currently working at IAtrix
+
+- 🌐 More at: [beatrizneaime.com](www.beatrizneaime.com)
+
+<br>
+
+<p>
+  My Stacks:
+</p>
+
+<div style="display: flex; gap: 5px">
+<img src="https://img.shields.io/badge/JavaScript-05122A?logo=javascript"/>
+<img src="https://img.shields.io/badge/HTML5-05122A?logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-05122A?logo=css3"/>
+<img src="https://img.shields.io/badge/React-05122A?logo=react"/>
+<img src="https://img.shields.io/badge/VueJS-05122A?logo=vuedotjs"/>
+<img src="https://img.shields.io/badge/NodeJS-05122A?logo=nodedotjs"/>
+<img src="https://img.shields.io/badge/CSharp-05122A?logo=csharp"/>
+<img src="https://img.shields.io/badge/MySQL-05122A?logo=mysql"/>
+<img src="https://img.shields.io/badge/MongoDB-05122A?logo=mongodb"/>
 </div>
+
+<h3>
+  Contact Me
+</h3>
+
+ ![https://www.linkedin.com/in/beatriz-neaime-1564b51b1/](https://img.shields.io/badge/BeatrizNeaime-05122A?logo=linkedin)&nbsp;
+
