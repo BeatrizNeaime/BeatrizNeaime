@@ -1,4 +1,4 @@
-<img align="right" height="490em" style="border-radius: 50% !important;" src="https://raw.githubusercontent.com/gist/BeatrizNeaime/8eca0e11a9f9903311021b63e0c2583e/raw/5181d608500625c6a9066623970d2342e8b2e354/githubcard.svg"/>
+<img align="right" height="490em" style="border-radius: 50% !important;" src="https://gist.githubusercontent.com/BeatrizNeaime/2ea61c54b95a963179d8acb5a7f71a0b/raw/84785e7c9123e50812cd399ad7024c5c58b6ddc2/readmeAi.svg"/>
 
 <h1 align="left">
   Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/>, I'm Beatriz
