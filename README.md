@@ -41,3 +41,5 @@
 <a href="https://www.linkedin.com/in/beatriz-neaime-1564b51b1/" target="_blank">
   <img src="https://img.shields.io/badge/BeatrizNeaime-05122A?logo=linkedin"/>
 </a>
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizNeaime&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
