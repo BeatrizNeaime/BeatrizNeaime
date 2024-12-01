@@ -12,7 +12,7 @@
 
 - 💻 FullStack Web Developer
 
-- 🚀 Currently working at IAtrix
+- 🚀 Currently working at Sistema ESO
 
 - 🌐 More at: [beatrizneaime.com](https://www.beatrizneaime.com)
 
